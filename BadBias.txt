@@ -32,7 +32,6 @@ hostess
 housewife
 househusband
 middleman
-man and wife
 ombudsman
 spokesman
 brotherhood
@@ -43,13 +42,11 @@ fellowship
 forefathers
 fraternal
 Frenchmen
-man
 mankind
 mother tongue
 thinking man
 working man
 working woman
-king-size
 kingmaker
 lady
 ladylike
@@ -66,8 +63,6 @@ masterpiece
 masterplan
 masterstroke
 man made
-man-hour
 motherly
-one-up-manship
 statesman
 workmanship
