@@ -125,3 +125,13 @@ diplomat
 public servant
 political leader
 expertise
+ancor
+assemblyperson
+businessperson
+camera operator
+chair
+chairperson
+minister
+construction worker
+council member
+artisan

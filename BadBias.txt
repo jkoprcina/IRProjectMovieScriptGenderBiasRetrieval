@@ -32,7 +32,6 @@ hostess
 housewife
 househusband
 middleman
-ombudsman
 spokesman
 brotherhood
 common man
@@ -66,3 +65,13 @@ man made
 motherly
 statesman
 workmanship
+anchorman
+assemblyman
+businessman
+cameraman
+chairman
+clergyman
+congressman
+councilman
+craftsman
+construction man
