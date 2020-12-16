@@ -75,3 +75,5 @@ congressman
 councilman
 craftsman
 construction man
+authoritative 
+commanding

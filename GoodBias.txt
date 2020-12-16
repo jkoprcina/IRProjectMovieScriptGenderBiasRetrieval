@@ -94,8 +94,6 @@ emcee
 moderator
 convenor
 skilled
-authoritative 
-commanding
 genius
 creator
 instigator
