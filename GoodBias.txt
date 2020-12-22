@@ -39,7 +39,6 @@ front
 figurehead
 host
 homemaker
-go-between
 troubleshooter
 self-made person
 entrepreneur
@@ -104,11 +103,6 @@ work of genius
 chef d’oeuvre
 comprehensive plan
 vision
-trump card
-artificial 
-synthetic 
-machine-made
-dynamo
 scholar
 writer
 literary figure
@@ -123,7 +117,6 @@ diplomat
 public servant
 political leader
 expertise
-ancor
 assemblyperson
 businessperson
 camera operator
